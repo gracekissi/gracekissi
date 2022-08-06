@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gracekissi
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in web design and customer support
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on bulkmail website
 - 📫 How to reach me: email
